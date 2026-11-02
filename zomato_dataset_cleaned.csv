@@ -1,0 +1,241 @@
+name,city,cuisine,cost_for_two,rating,votes,online_order,opening_date,is_new,opening_year,cost_level,rating_label
+Smoky Bistro,Pune,Desserts,900.0,4.7,806,False,2014-08-09,False,2014.0,Costly,Good
+Blue Bowl,Mumbai,Chinese,800.0,,642,False,2023-05-24,False,2023.0,Costly,Average
+Smoky Darbar,Mumbai,Chinese,300.0,3.6,995,False,2012-06-14,False,2012.0,Cheap,Average
+Green Corner,Pune,Desserts,1100.0,4.5,1237,False,2021-10-15,False,2021.0,Costly,Good
+Blue Bistro,Pune,Biryani,950.0,4.4,1365,False,,False,,Costly,Good
+Blue Grill,Bengaluru,South Indian,1100.0,3.7,2710,False,2019-04-06,False,2019.0,Costly,Average
+Green Darbar,Pune,Fast Food,950.0,4.9,1354,False,2023-04-20,False,2023.0,Costly,Good
+Tasty Bistro,Pune,Desserts,700.0,4.9,1179,False,2020-04-02,False,2020.0,Medium,Good
+Royal Bowl,Chennai,Biryani,1400.0,3.7,605,True,2018-11-03,False,2018.0,Costly,Average
+Blue Darbar,Bengaluru,Chinese,1150.0,3.9,2187,False,2012-10-17,False,2012.0,Costly,Average
+Green Kitchen,Mumbai,North Indian,1500.0,4.6,52,False,2012-09-16,False,2012.0,Costly,Good
+Little Bistro,Delhi,Fast Food,500.0,3.2,374,True,2021-06-29,False,2021.0,Medium,Average
+Fresh Bistro,Mumbai,South Indian,1200.0,3.4,2648,True,,False,,Costly,Average
+Spice Darbar,Mumbai,Cafe,600.0,4.5,1136,True,2018-10-30,False,2018.0,Medium,Good
+Golden Tadka,Delhi,Biryani,1450.0,4.1,846,True,2014-01-13,False,2014.0,Costly,Good
+Little Cafe House,Bengaluru,Italian,1350.0,4.7,2493,True,,False,,Costly,Good
+Smoky Grill,Hyderabad,Biryani,700.0,4.2,1132,False,2024-06-15,False,2024.0,Medium,Good
+Tasty Kitchen,Mumbai,Cafe,850.0,4.5,1354,False,2019-02-20,False,2019.0,Costly,Good
+Green Corner,Chennai,Unknown,950.0,3.4,1597,True,2016-06-05,False,2016.0,Costly,Average
+Urban Bistro,Chennai,North Indian,300.0,3.6,944,False,2018-04-04,False,2018.0,Cheap,Average
+Tasty Darbar,Delhi,South Indian,950.0,4.5,361,False,,False,,Costly,Good
+Golden Bowl,Mumbai,South Indian,750.0,3.0,2255,True,2022-01-29,False,2022.0,Costly,Average
+Tasty Grill,Mumbai,Chinese,900.0,4.4,1916,True,,False,,Costly,Good
+Smoky Corner,Chennai,Italian,450.0,3.5,630,True,2016-08-12,False,2016.0,Medium,Average
+Little Darbar,Bengaluru,Desserts,1250.0,4.4,970,True,2022-02-02,False,2022.0,Costly,Good
+Royal Bistro,Mumbai,Fast Food,750.0,4.7,2600,True,2017-04-02,False,2017.0,Costly,Good
+Blue Tadka,Delhi,Italian,1000.0,3.3,1144,False,2014-09-08,False,2014.0,Costly,Average
+Green Tadka,Pune,Italian,1100.0,3.9,2875,True,2018-08-25,False,2018.0,Costly,Average
+Tasty Corner,Pune,South Indian,1400.0,4.0,2450,False,2024-10-22,False,2024.0,Costly,Good
+Spice Tadka,Pune,Cafe,950.0,,846,True,2024-06-09,False,2024.0,Costly,Average
+Tasty Bowl,Bengaluru,Fast Food,550.0,3.1,144,False,2018-01-29,False,2018.0,Medium,Average
+Smoky Kitchen,Hyderabad,North Indian,1200.0,4.5,655,False,2014-01-18,False,2014.0,Costly,Good
+Green Bistro,Mumbai,Desserts,150.0,4.6,1992,True,2014-02-28,False,2014.0,Cheap,Good
+Royal Tadka,Chennai,Italian,1300.0,3.3,590,False,2012-08-19,False,2012.0,Costly,Average
+Royal Bistro,Pune,Italian,300.0,4.7,2860,True,2014-01-05,False,2014.0,Cheap,Good
+Spice Bistro,Bengaluru,Italian,350.0,4.0,841,False,2013-04-12,False,2013.0,Medium,Good
+Royal Corner,Hyderabad,Desserts,1100.0,4.4,408,True,2020-10-22,False,2020.0,Costly,Good
+Blue Bistro,Delhi,South Indian,750.0,4.7,1126,False,2017-10-04,False,2017.0,Costly,Good
+Urban Bistro,Pune,Desserts,200.0,4.1,331,False,2014-04-28,False,2014.0,Cheap,Good
+Smoky Darbar,Chennai,Chinese,750.0,4.2,2901,False,2022-03-08,False,2022.0,Costly,Good
+Smoky Cafe House,Pune,South Indian,1300.0,,1961,True,2020-12-23,False,2020.0,Costly,Average
+Royal Grill,Mumbai,North Indian,600.0,4.3,153,True,,False,,Medium,Good
+Blue Bistro,Hyderabad,Italian,1350.0,3.2,1374,False,2016-10-26,False,2016.0,Costly,Average
+Spice Grill,Chennai,Italian,1450.0,3.5,190,False,2017-07-06,False,2017.0,Costly,Average
+Smoky Bowl,Chennai,North Indian,950.0,4.5,2260,False,2021-01-03,False,2021.0,Costly,Good
+Little Kitchen,Pune,Cafe,1250.0,4.6,2962,False,2022-08-25,False,2022.0,Costly,Good
+Green Darbar,Delhi,Fast Food,1150.0,3.1,2768,False,2015-06-21,False,2015.0,Costly,Average
+Green Corner,Bengaluru,Cafe,350.0,,2512,True,2020-05-06,True,2020.0,Medium,New
+Green Kitchen,Delhi,North Indian,500.0,3.9,575,False,2019-05-05,False,2019.0,Medium,Average
+Green Cafe House,Chennai,North Indian,350.0,,926,False,2012-01-27,False,2012.0,Medium,Average
+Spice Corner,Pune,Fast Food,750.0,,1156,False,2021-12-04,True,2021.0,Costly,New
+Green Kitchen,Mumbai,North Indian,600.0,3.7,1344,False,2015-06-13,False,2015.0,Medium,Average
+Smoky Cafe House,Mumbai,North Indian,1000.0,3.1,1543,True,2015-04-23,False,2015.0,Costly,Average
+Spice Corner,Chennai,South Indian,400.0,3.7,1337,False,2016-10-05,False,2016.0,Medium,Average
+Blue Kitchen,Chennai,Cafe,1300.0,3.5,912,True,2022-01-24,False,2022.0,Costly,Average
+Little Corner,Mumbai,North Indian,1050.0,4.5,1189,False,2022-06-30,False,2022.0,Costly,Good
+Spice Darbar,Pune,Chinese,1050.0,4.0,2284,True,2013-01-13,False,2013.0,Costly,Good
+Fresh Bistro,Delhi,Desserts,1350.0,3.2,2241,True,2020-06-12,False,2020.0,Costly,Average
+Spice Darbar,Mumbai,Cafe,1550.0,,1354,False,2012-11-05,False,2012.0,Costly,Average
+Spice Darbar,Mumbai,Cafe,1100.0,3.3,1687,True,2018-02-28,False,2018.0,Costly,Average
+Fresh Darbar,Delhi,Desserts,900.0,,2310,True,2017-05-03,False,2017.0,Costly,Average
+Little Bistro,Chennai,Biryani,1100.0,3.6,379,True,2025-06-13,False,2025.0,Costly,Average
+Green Bistro,Chennai,Chinese,200.0,4.5,1354,True,2013-10-25,False,2013.0,Cheap,Good
+Royal Kitchen,Hyderabad,Chinese,1200.0,3.2,685,False,2017-12-11,False,2017.0,Costly,Average
+Smoky Tadka,Pune,Italian,650.0,4.5,123,True,2018-07-20,False,2018.0,Medium,Good
+Fresh Cafe House,Mumbai,Fast Food,350.0,3.9,1547,True,2023-04-24,False,2023.0,Medium,Average
+Blue Corner,Hyderabad,Cafe,1400.0,3.9,2804,False,2021-08-04,False,2021.0,Costly,Average
+Urban Darbar,Delhi,Fast Food,500.0,3.5,1354,False,2025-11-23,False,2025.0,Medium,Average
+Tasty Bistro,Mumbai,Biryani,1300.0,3.5,1755,True,2023-03-21,False,2023.0,Costly,Average
+Smoky Cafe House,Pune,Biryani,800.0,3.3,77,True,2015-10-09,False,2015.0,Costly,Average
+Royal Cafe House,Bengaluru,Chinese,1200.0,4.1,2629,False,2016-03-11,False,2016.0,Costly,Good
+Urban Tadka,Hyderabad,Biryani,300.0,3.8,2542,False,2023-05-28,False,2023.0,Cheap,Average
+Blue Kitchen,Bengaluru,Italian,950.0,4.2,793,True,2020-07-10,False,2020.0,Costly,Good
+Royal Cafe House,Pune,South Indian,850.0,3.1,1354,True,2014-01-03,False,2014.0,Costly,Average
+Tasty Bowl,Chennai,Cafe,750.0,4.0,1302,False,2024-03-18,False,2024.0,Costly,Good
+Blue Cafe House,Pune,Unknown,700.0,,511,False,2012-09-16,True,2012.0,Medium,New
+Blue Cafe House,Mumbai,Fast Food,550.0,,2116,False,2020-10-16,False,2020.0,Medium,Average
+Urban Tadka,Bengaluru,Italian,1450.0,3.3,2978,True,2016-09-26,False,2016.0,Costly,Average
+Golden Tadka,Pune,Biryani,1300.0,3.5,576,False,2022-06-27,False,2022.0,Costly,Average
+Spice Darbar,Hyderabad,Biryani,1300.0,3.9,2431,False,2022-09-29,False,2022.0,Costly,Average
+Royal Kitchen,Hyderabad,Chinese,950.0,3.9,230,False,,False,,Costly,Average
+Golden Kitchen,Hyderabad,South Indian,200.0,4.4,1787,True,2023-06-09,False,2023.0,Cheap,Good
+Green Corner,Delhi,Biryani,650.0,3.3,1187,True,2016-11-03,False,2016.0,Medium,Average
+Little Tadka,Mumbai,Italian,750.0,4.1,1221,True,2016-01-26,False,2016.0,Costly,Good
+Smoky Darbar,Pune,Biryani,850.0,,1638,True,2024-10-19,False,2024.0,Costly,Average
+Tasty Kitchen,Mumbai,Fast Food,1300.0,3.2,1354,True,2022-09-23,False,2022.0,Costly,Average
+Blue Corner,Mumbai,Cafe,1000.0,4.5,2836,True,,False,,Costly,Good
+Urban Corner,Pune,North Indian,1500.0,4.8,853,False,2015-01-24,False,2015.0,Costly,Good
+Golden Grill,Delhi,Italian,1450.0,4.7,1397,False,2013-05-26,False,2013.0,Costly,Good
+Tasty Kitchen,Pune,South Indian,550.0,4.6,944,True,2018-02-03,False,2018.0,Medium,Good
+Smoky Bowl,Hyderabad,Chinese,950.0,4.2,1326,False,,False,,Costly,Good
+Little Kitchen,Hyderabad,Italian,850.0,3.4,1861,True,2012-04-10,False,2012.0,Costly,Average
+Fresh Bowl,Hyderabad,Unknown,850.0,,2125,True,2020-12-12,True,2020.0,Costly,New
+Royal Grill,Mumbai,Chinese,1350.0,4.8,2535,False,2020-06-28,False,2020.0,Costly,Good
+Fresh Bowl,Hyderabad,South Indian,1200.0,4.5,1354,True,2023-07-21,False,2023.0,Costly,Good
+Spice Tadka,Hyderabad,Fast Food,200.0,3.9,465,True,,False,,Cheap,Average
+Blue Kitchen,Chennai,North Indian,950.0,4.7,2492,False,2017-01-30,False,2017.0,Costly,Good
+Fresh Cafe House,Mumbai,North Indian,750.0,3.9,212,True,2013-12-25,False,2013.0,Costly,Average
+Tasty Kitchen,Chennai,Desserts,700.0,4.8,2990,False,2023-02-03,False,2023.0,Medium,Good
+Little Grill,Delhi,Italian,1450.0,4.5,2740,True,2022-05-16,False,2022.0,Costly,Good
+Blue Bistro,Hyderabad,North Indian,1100.0,4.1,1035,True,2015-11-29,False,2015.0,Costly,Good
+Smoky Grill,Delhi,Fast Food,350.0,4.1,2896,True,2018-02-20,False,2018.0,Medium,Good
+Royal Kitchen,Pune,Chinese,900.0,3.8,1726,False,2024-12-19,False,2024.0,Costly,Average
+Green Kitchen,Mumbai,Chinese,1300.0,4.4,2523,False,2013-08-01,False,2013.0,Costly,Good
+Fresh Grill,Bengaluru,Unknown,850.0,3.3,498,True,2021-05-16,False,2021.0,Costly,Average
+Golden Cafe House,Delhi,North Indian,150.0,,2907,True,2021-09-06,True,2021.0,Cheap,New
+Smoky Tadka,Hyderabad,Unknown,1200.0,3.4,1365,False,2024-10-16,False,2024.0,Costly,Average
+Royal Darbar,Delhi,Cafe,350.0,,1400,True,2012-07-13,True,2012.0,Medium,New
+Spice Corner,Pune,Desserts,1000.0,3.8,2469,True,2017-11-03,False,2017.0,Costly,Average
+Smoky Tadka,Hyderabad,Unknown,450.0,3.1,772,True,2020-12-19,False,2020.0,Medium,Average
+Royal Tadka,Pune,Desserts,950.0,3.3,2534,True,2013-10-29,False,2013.0,Costly,Average
+Smoky Bistro,Chennai,Italian,450.0,4.1,1900,True,2025-03-20,False,2025.0,Medium,Good
+Urban Cafe House,Chennai,South Indian,950.0,3.6,1019,True,2014-02-22,False,2014.0,Costly,Average
+Spice Grill,Chennai,Desserts,500.0,3.8,1437,False,2019-01-22,False,2019.0,Medium,Average
+Fresh Kitchen,Mumbai,Biryani,1300.0,4.6,1145,False,2013-03-29,False,2013.0,Costly,Good
+Blue Kitchen,Delhi,Cafe,450.0,3.4,683,True,2024-09-23,False,2024.0,Medium,Average
+Urban Cafe House,Bengaluru,South Indian,800.0,3.3,2451,True,2020-07-12,False,2020.0,Costly,Average
+Royal Bowl,Hyderabad,Fast Food,1500.0,3.5,2577,False,2016-04-12,False,2016.0,Costly,Average
+Golden Darbar,Chennai,Biryani,550.0,4.0,1118,True,2016-02-21,False,2016.0,Medium,Good
+Little Grill,Mumbai,Desserts,1450.0,4.7,1761,True,2021-05-08,False,2021.0,Costly,Good
+Fresh Grill,Chennai,Cafe,800.0,3.8,1610,True,2025-03-21,False,2025.0,Costly,Average
+Urban Bistro,Mumbai,Italian,300.0,3.0,1354,False,2018-05-17,False,2018.0,Cheap,Average
+Royal Grill,Mumbai,Desserts,750.0,4.2,1817,True,2019-08-27,False,2019.0,Costly,Good
+Smoky Grill,Bengaluru,Italian,300.0,4.6,224,True,2015-03-06,False,2015.0,Cheap,Good
+Little Grill,Delhi,Desserts,950.0,3.2,539,False,2014-06-22,False,2014.0,Costly,Average
+Smoky Kitchen,Pune,Biryani,800.0,3.3,649,True,2023-12-30,False,2023.0,Costly,Average
+Spice Grill,Delhi,Italian,950.0,,1204,True,2014-04-23,False,2014.0,Costly,Average
+Royal Kitchen,Chennai,Biryani,600.0,3.5,272,False,2025-04-26,False,2025.0,Medium,Average
+Urban Darbar,Bengaluru,North Indian,250.0,4.8,2854,False,2015-01-03,False,2015.0,Cheap,Good
+Blue Grill,Chennai,Biryani,300.0,3.3,1081,True,2014-06-06,False,2014.0,Cheap,Average
+Green Cafe House,Delhi,Italian,650.0,4.4,984,False,2016-05-25,False,2016.0,Medium,Good
+Little Darbar,Mumbai,Italian,950.0,,581,True,2015-06-08,True,2015.0,Costly,New
+Fresh Kitchen,Pune,South Indian,450.0,4.6,454,True,2017-08-11,False,2017.0,Medium,Good
+Fresh Corner,Pune,Italian,1400.0,3.4,1894,False,2013-01-25,False,2013.0,Costly,Average
+Tasty Darbar,Chennai,Fast Food,800.0,4.2,1354,True,2023-06-19,False,2023.0,Costly,Good
+Green Grill,Bengaluru,Fast Food,950.0,4.1,114,False,2025-01-15,False,2025.0,Costly,Good
+Little Darbar,Hyderabad,North Indian,700.0,4.4,2769,False,2017-04-27,False,2017.0,Medium,Good
+Urban Darbar,Hyderabad,Biryani,1150.0,4.3,1798,False,2017-11-21,False,2017.0,Costly,Good
+Tasty Grill,Pune,Fast Food,650.0,3.8,643,False,2015-05-08,False,2015.0,Medium,Average
+Fresh Corner,Mumbai,South Indian,600.0,3.4,1925,False,2024-03-24,False,2024.0,Medium,Average
+Tasty Tadka,Hyderabad,Italian,900.0,,1840,False,2024-03-10,False,2024.0,Costly,Average
+Blue Grill,Mumbai,Cafe,950.0,4.7,2296,False,2025-12-23,False,2025.0,Costly,Good
+Urban Darbar,Mumbai,Fast Food,1200.0,4.2,1400,False,2017-10-07,False,2017.0,Costly,Good
+Spice Corner,Bengaluru,Italian,1500.0,4.1,566,True,2015-05-31,False,2015.0,Costly,Good
+Green Tadka,Mumbai,Chinese,1350.0,3.7,2024,False,2022-02-17,False,2022.0,Costly,Average
+Spice Tadka,Chennai,South Indian,700.0,3.0,1541,True,2017-07-14,False,2017.0,Medium,Average
+Smoky Corner,Delhi,Chinese,1450.0,,1326,False,2019-03-12,True,2019.0,Costly,New
+Tasty Kitchen,Chennai,Cafe,850.0,,2697,False,,True,,Costly,New
+Little Bistro,Bengaluru,South Indian,1550.0,4.2,2290,True,2021-04-26,False,2021.0,Costly,Good
+Royal Corner,Hyderabad,Biryani,1000.0,3.1,1337,False,2012-07-01,False,2012.0,Costly,Average
+Golden Corner,Delhi,Unknown,1400.0,4.3,1601,True,2013-11-03,False,2013.0,Costly,Good
+Tasty Cafe House,Mumbai,Desserts,650.0,3.1,1354,False,2013-09-19,False,2013.0,Medium,Average
+Green Bowl,Bengaluru,Fast Food,1250.0,4.2,2769,True,2020-04-22,False,2020.0,Costly,Good
+Fresh Bistro,Pune,Desserts,1250.0,4.1,2229,True,2023-08-19,False,2023.0,Costly,Good
+Golden Kitchen,Bengaluru,Fast Food,1450.0,3.7,107,False,2024-01-08,False,2024.0,Costly,Average
+Smoky Darbar,Bengaluru,Chinese,1050.0,4.6,1354,True,2023-03-29,False,2023.0,Costly,Good
+Urban Tadka,Delhi,South Indian,750.0,4.0,1626,True,2025-04-21,False,2025.0,Costly,Good
+Green Tadka,Bengaluru,Italian,1250.0,3.3,2378,False,2018-04-17,False,2018.0,Costly,Average
+Tasty Bowl,Delhi,Fast Food,1150.0,4.7,118,False,,False,,Costly,Good
+Royal Darbar,Chennai,Italian,1350.0,4.6,2124,True,2021-10-18,False,2021.0,Costly,Good
+Spice Cafe House,Bengaluru,Biryani,550.0,4.1,2844,False,2025-10-19,False,2025.0,Medium,Good
+Royal Kitchen,Pune,Chinese,850.0,,477,False,2023-07-27,True,2023.0,Costly,New
+Urban Tadka,Mumbai,South Indian,1550.0,,47,True,2018-10-16,False,2018.0,Costly,Average
+Urban Bowl,Mumbai,Chinese,600.0,4.4,507,True,2022-12-17,False,2022.0,Medium,Good
+Blue Darbar,Hyderabad,Desserts,1250.0,3.8,2264,False,2021-12-21,False,2021.0,Costly,Average
+Urban Cafe House,Chennai,Cafe,150.0,4.0,2526,False,2013-09-21,False,2013.0,Cheap,Good
+Fresh Kitchen,Chennai,South Indian,1400.0,3.5,1141,False,2024-05-01,False,2024.0,Costly,Average
+Spice Kitchen,Delhi,Chinese,150.0,3.5,2121,True,2015-06-24,False,2015.0,Cheap,Average
+Green Grill,Bengaluru,Fast Food,750.0,4.9,1533,True,2016-12-06,False,2016.0,Costly,Good
+Golden Cafe House,Pune,Desserts,400.0,4.7,1543,False,2014-10-07,False,2014.0,Medium,Good
+Tasty Tadka,Hyderabad,South Indian,1550.0,4.8,991,False,2020-04-16,False,2020.0,Costly,Good
+Green Darbar,Mumbai,North Indian,950.0,4.3,2435,False,2015-01-10,False,2015.0,Costly,Good
+Green Bowl,Bengaluru,Cafe,1350.0,4.0,801,False,2022-11-20,False,2022.0,Costly,Good
+Fresh Grill,Hyderabad,Biryani,1100.0,4.6,1576,False,2017-04-09,False,2017.0,Costly,Good
+Spice Cafe House,Delhi,Unknown,750.0,3.7,1629,True,2025-07-26,False,2025.0,Costly,Average
+Spice Corner,Hyderabad,Italian,1350.0,3.5,1134,False,2016-06-09,False,2016.0,Costly,Average
+Tasty Bistro,Hyderabad,Cafe,1300.0,4.2,393,True,2022-02-01,False,2022.0,Costly,Good
+Green Cafe House,Chennai,Desserts,300.0,4.2,383,False,2023-02-27,False,2023.0,Cheap,Good
+Little Cafe House,Delhi,Biryani,1250.0,3.4,171,True,,False,,Costly,Average
+Fresh Grill,Mumbai,Chinese,200.0,4.0,1354,False,2022-08-06,False,2022.0,Cheap,Good
+Golden Darbar,Delhi,Desserts,1100.0,3.5,1091,False,2020-12-31,False,2020.0,Costly,Average
+Golden Darbar,Bengaluru,South Indian,1050.0,3.9,123,False,2013-08-30,False,2013.0,Costly,Average
+Royal Grill,Bengaluru,Desserts,1350.0,4.3,1995,True,2015-07-02,False,2015.0,Costly,Good
+Little Bistro,Chennai,Desserts,1350.0,4.1,1483,True,2019-10-21,False,2019.0,Costly,Good
+Little Tadka,Chennai,Fast Food,1500.0,3.8,682,True,2017-10-22,False,2017.0,Costly,Average
+Blue Bowl,Chennai,Chinese,950.0,,381,True,2012-10-07,False,2012.0,Costly,Average
+Golden Tadka,Mumbai,South Indian,950.0,3.2,2226,False,2015-06-03,False,2015.0,Costly,Average
+Tasty Corner,Mumbai,Biryani,600.0,3.6,881,False,2015-06-20,False,2015.0,Medium,Average
+Spice Tadka,Mumbai,North Indian,450.0,,1336,False,2014-03-18,True,2014.0,Medium,New
+Green Corner,Delhi,North Indian,1250.0,4.1,2036,False,2014-10-14,False,2014.0,Costly,Good
+Blue Bistro,Mumbai,Cafe,150.0,3.6,1354,False,2018-12-14,False,2018.0,Cheap,Average
+Green Grill,Pune,Desserts,700.0,3.3,93,True,2022-08-21,False,2022.0,Medium,Average
+Royal Cafe House,Delhi,Unknown,1500.0,,2303,False,2016-09-11,False,2016.0,Costly,Average
+Urban Tadka,Delhi,Italian,1250.0,,266,True,2022-02-26,True,2022.0,Costly,New
+Green Cafe House,Pune,Unknown,650.0,4.2,84,False,2021-04-03,False,2021.0,Medium,Good
+Golden Cafe House,Chennai,Desserts,1100.0,4.1,1086,True,2013-07-07,False,2013.0,Costly,Good
+Blue Kitchen,Delhi,Desserts,800.0,4.0,1434,False,2016-07-04,False,2016.0,Costly,Good
+Fresh Tadka,Delhi,Biryani,1250.0,,1781,False,2012-02-28,False,2012.0,Costly,Average
+Little Bistro,Hyderabad,Biryani,600.0,4.8,2573,False,2019-07-14,False,2019.0,Medium,Good
+Green Tadka,Delhi,North Indian,750.0,3.1,1030,False,,False,,Costly,Average
+Smoky Cafe House,Chennai,Cafe,950.0,3.3,1134,False,2024-05-14,False,2024.0,Costly,Average
+Golden Tadka,Pune,Desserts,700.0,4.4,1616,False,2019-04-28,False,2019.0,Medium,Good
+Urban Bistro,Mumbai,Biryani,1250.0,4.2,1026,True,2025-11-01,False,2025.0,Costly,Good
+Tasty Kitchen,Hyderabad,South Indian,1450.0,3.6,2914,True,2020-08-29,False,2020.0,Costly,Average
+Tasty Bowl,Hyderabad,Desserts,1100.0,4.4,1020,False,2016-03-21,False,2016.0,Costly,Good
+Tasty Bowl,Pune,Fast Food,800.0,4.2,1787,True,2013-05-31,False,2013.0,Costly,Good
+Blue Kitchen,Pune,North Indian,550.0,3.2,2134,True,2021-04-08,False,2021.0,Medium,Average
+Fresh Tadka,Chennai,North Indian,350.0,4.5,237,False,2024-08-24,False,2024.0,Medium,Good
+Golden Tadka,Hyderabad,Cafe,1050.0,3.3,2206,True,2012-11-12,False,2012.0,Costly,Average
+Golden Corner,Hyderabad,Italian,950.0,4.3,293,True,2012-09-18,False,2012.0,Costly,Good
+Golden Kitchen,Delhi,Biryani,1150.0,4.1,1277,False,2023-04-17,False,2023.0,Costly,Good
+Spice Grill,Delhi,Unknown,1150.0,4.6,1126,False,2024-11-17,False,2024.0,Costly,Good
+Royal Tadka,Mumbai,South Indian,1200.0,4.5,756,True,2021-07-05,False,2021.0,Costly,Good
+Urban Corner,Delhi,Fast Food,950.0,3.8,339,False,2014-07-26,False,2014.0,Costly,Average
+Royal Darbar,Bengaluru,Biryani,550.0,3.0,2621,False,,False,,Medium,Average
+Smoky Bistro,Mumbai,Cafe,950.0,4.1,1440,False,2018-05-19,False,2018.0,Costly,Good
+Smoky Cafe House,Delhi,Biryani,1100.0,3.4,2909,True,2022-04-20,False,2022.0,Costly,Average
+Blue Tadka,Delhi,North Indian,200.0,,1034,False,2024-08-13,False,2024.0,Cheap,Average
+Tasty Darbar,Mumbai,Desserts,1000.0,3.4,2285,False,2020-01-14,False,2020.0,Costly,Average
+Tasty Kitchen,Mumbai,Biryani,650.0,3.8,722,False,2023-07-23,False,2023.0,Medium,Average
+Spice Darbar,Bengaluru,Desserts,350.0,4.6,533,False,2020-06-29,False,2020.0,Medium,Good
+Fresh Corner,Chennai,Chinese,600.0,4.3,1253,False,2014-12-04,False,2014.0,Medium,Good
+Urban Grill,Pune,Biryani,1400.0,4.7,418,True,,False,,Costly,Good
+Blue Tadka,Delhi,Italian,1500.0,3.2,2193,False,2025-04-25,False,2025.0,Costly,Average
+Little Tadka,Bengaluru,Desserts,500.0,3.2,413,True,2019-08-12,False,2019.0,Medium,Average
+Green Cafe House,Hyderabad,Fast Food,1500.0,,1425,True,2013-11-07,True,2013.0,Costly,New
+Urban Cafe House,Mumbai,Italian,150.0,4.6,2077,False,2022-01-22,False,2022.0,Cheap,Good
+Smoky Corner,Pune,Unknown,1350.0,4.5,1811,False,2017-07-11,False,2017.0,Costly,Good
+Royal Darbar,Mumbai,Biryani,1550.0,4.8,734,False,2015-03-24,False,2015.0,Costly,Good
+Spice Corner,Mumbai,Cafe,1500.0,4.7,2986,True,2015-07-15,False,2015.0,Costly,Good
+Urban Kitchen,Hyderabad,Italian,950.0,4.4,2397,True,2012-03-19,False,2012.0,Costly,Good
+Urban Corner,Chennai,North Indian,500.0,3.6,2262,False,,False,,Medium,Average
+Tasty Grill,Pune,Fast Food,1100.0,3.7,1376,True,,False,,Costly,Average
+Blue Bowl,Hyderabad,Biryani,1250.0,4.7,1152,False,2014-07-05,False,2014.0,Costly,Good
+Royal Bowl,Pune,Desserts,950.0,3.7,1796,False,2016-07-08,False,2016.0,Costly,Average
+Golden Bistro,Pune,Biryani,950.0,4.7,1877,True,2020-02-03,False,2020.0,Costly,Good
+Fresh Darbar,Chennai,North Indian,1550.0,4.6,1263,False,2018-07-08,False,2018.0,Costly,Good
+Fresh Kitchen,Hyderabad,Desserts,750.0,,1402,False,2024-04-28,True,2024.0,Costly,New
+Tasty Bowl,Mumbai,Chinese,1250.0,3.6,126,True,2016-09-21,False,2016.0,Costly,Average
+Tasty Bowl,Bengaluru,Desserts,1050.0,4.7,248,False,2022-03-27,False,2022.0,Costly,Good
